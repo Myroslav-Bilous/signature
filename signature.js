@@ -1,3 +1,3 @@
 ( function testFumctionJsTest() {
-  console.log('Yeeeeeeear')
+  console.log('Hello from Ukraine')
 })()
